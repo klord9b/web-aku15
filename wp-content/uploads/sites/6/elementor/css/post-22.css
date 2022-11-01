@@ -1,0 +1,20 @@
+.elementor-22 .elementor-element.elementor-element-1569682{--cols:2;--post-excerpt-lines:2;--rows-gap:35px;}.elementor-22 .elementor-element.elementor-element-1569682 .etheme-post-content .etheme-post-excerpt{height:calc(var(--post-excerpt-lines) * 3ex);line-height:3ex;overflow:hidden;}.elementor-22 .elementor-element.elementor-element-1569682 .etheme-post-content .etheme-post-categories{font-family:"Jost", Sans-serif;font-size:12px;margin-bottom:6px;}.elementor-22 .elementor-element.elementor-element-1569682 .etheme-post-content .etheme-post-categories a{color:#FFFFFF;background-color:#C0883E;}.elementor-22 .elementor-element.elementor-element-1569682 .etheme-post-title{font-family:"Jost", Sans-serif;font-size:20px;font-weight:700;}.elementor-22 .elementor-element.elementor-element-1569682 .etheme-post-title a{color:#1A1A1A;}.elementor-22 .elementor-element.elementor-element-1569682 .etheme-post-excerpt{font-family:"Jost", Sans-serif;font-size:16px;font-weight:400;color:#555555;}.elementor-22 .elementor-element.elementor-element-1569682 .etheme-post-meta-data{border-style:solid;border-width:1px 0px 0px 0px;border-color:#e1e1e1;}@media(max-width:1024px){.elementor-22 .elementor-element.elementor-element-1569682{--cols:3;}}@media(max-width:767px){.elementor-22 .elementor-element.elementor-element-1569682{--cols:1;}}.widget_mc4wp_form_widget {
+    border: 1px solid #E6E6E6;
+    padding: 30px;
+    text-align: center;
+}
+.widget_mc4wp_form_widget .widget-title {
+    text-transform: capitalize;
+    font-size: 19px;
+}
+.widget_mc4wp_form_widget input {
+    height: 50px !important;
+    width: 100%;
+}
+input[type="submit"] {
+    font-weight: 600;
+    font-size: 13px !important;
+    color: white !important;
+    background: #C0883E !important;
+    margin-top: 10px;
+}
