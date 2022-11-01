@@ -1,0 +1,14 @@
+.elementor-1006 .elementor-element.elementor-element-3b088bf:not(.elementor-motion-effects-element-type-background), .elementor-1006 .elementor-element.elementor-element-3b088bf > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://xstore.8theme.com/elementor/demos/niche-market03/wp-content/uploads/sites/62/2021/05/shop-banner-04.jpg");background-repeat:no-repeat;background-size:cover;}.elementor-1006 .elementor-element.elementor-element-3b088bf{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:60px 30px 50px 30px;}.elementor-1006 .elementor-element.elementor-element-3b088bf > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1006 .elementor-element.elementor-element-300cb13 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-1006 .elementor-element.elementor-element-cc75d32{text-align:center;}.elementor-1006 .elementor-element.elementor-element-cc75d32 .elementor-heading-title{color:#FFFFFF;font-family:"Staatliches", Sans-serif;font-size:40px;font-weight:normal;line-height:50px;}.elementor-1006 .elementor-element.elementor-element-e4bfff4{text-align:center;color:#FFFFFF;font-family:"Source Sans Pro", Sans-serif;font-size:14px;font-weight:400;}.elementor-1006 .elementor-element.elementor-element-e4bfff4 > .elementor-widget-container{margin:0px 0px 25px 0px;}/* Start custom CSS for section, class: .elementor-element-3b088bf */.custom-banner .mc4wp-form-fields input[type="email"] {
+    background-color: transparent;
+    color: white;
+    margin-bottom: 10px;
+    border: 2px solid white;
+}
+.custom-banner .mc4wp-form-fields input[type="email"]::placeholder {
+    color: white;
+}
+.custom-banner .mc4wp-form-fields input[type="submit"] {
+    width: 100%;
+    font-size: 14px;
+    font-family: Staatliches;
+}/* End custom CSS */
