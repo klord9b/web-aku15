@@ -1,0 +1,30 @@
+.elementor-360 .elementor-element.elementor-element-67b89b8:not(.elementor-motion-effects-element-type-background), .elementor-360 .elementor-element.elementor-element-67b89b8 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#303030;background-image:url("https://xstore.8theme.com/elementor/demos/restaurant/wp-content/uploads/sites/46/2020/09/restaurant-track-01.png");background-position:200px 0px;background-repeat:no-repeat;background-size:contain;}.elementor-360 .elementor-element.elementor-element-67b89b8{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:150px 0px 100px 0px;}.elementor-360 .elementor-element.elementor-element-67b89b8 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-360 .elementor-element.elementor-element-0a6e015 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-360 .elementor-element.elementor-element-0a6e015:not(.elementor-motion-effects-element-type-background), .elementor-360 .elementor-element.elementor-element-0a6e015 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#303030;background-image:url("https://xstore.8theme.com/elementor/demos/restaurant/wp-content/uploads/sites/46/2020/09/restaurant-track-05.png");background-position:bottom right;background-repeat:no-repeat;background-size:auto;}.elementor-360 .elementor-element.elementor-element-0a6e015{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 15px 120px 15px;}.elementor-360 .elementor-element.elementor-element-0a6e015 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-360 .elementor-element.elementor-element-81b4cd3 > .elementor-element-populated{padding:0px 30px 0px 0px;}.elementor-360 .elementor-element.elementor-element-81b4cd3{z-index:3;}.elementor-360 .elementor-element.elementor-element-cb635c4{text-align:left;}.elementor-360 .elementor-element.elementor-element-cb635c4 .elementor-heading-title{color:#F0EBDC;font-family:"Roboto", Sans-serif;font-size:48px;font-weight:300;text-transform:capitalize;line-height:62px;letter-spacing:1.44px;}.elementor-360 .elementor-element.elementor-element-aa5ac1f{text-align:center;}.elementor-360 .elementor-element.elementor-element-7b281ee{margin-top:-300px;margin-bottom:0px;padding:0px 0px 35px 0px;}.elementor-360 .elementor-element.elementor-element-ae16699{text-align:center;}.elementor-360 .elementor-element.elementor-element-ae16699 > .elementor-widget-container{margin:0px 0px 0px 200px;}@media(max-width:1024px){.elementor-360 .elementor-element.elementor-element-67b89b8:not(.elementor-motion-effects-element-type-background), .elementor-360 .elementor-element.elementor-element-67b89b8 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:0px 0px;}}@media(max-width:767px){.elementor-360 .elementor-element.elementor-element-67b89b8:not(.elementor-motion-effects-element-type-background), .elementor-360 .elementor-element.elementor-element-67b89b8 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:0px 0px;}.elementor-360 .elementor-element.elementor-element-67b89b8{padding:0px 0px 100px 0px;}.elementor-360 .elementor-element.elementor-element-0a6e015{padding:0px 15px 15px 15px;}.elementor-360 .elementor-element.elementor-element-81b4cd3 > .elementor-element-populated{padding:0px 0px 30px 0px;}}/* Start custom CSS for section, class: .elementor-element-0a6e015 */.order-tracking {
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #F0EBDC;
+}
+.order-tracking label{
+    color: #C8A374;
+    font-size: 18px;
+    font-weight: normal;
+}
+.order-tracking input {
+    border: 1px solid #F0EBDC !important;
+    color: #f0ebdc;
+}
+.order-tracking input::placeholder {
+    color: #F0EBDC;
+    opacity: 0.5;
+    font-style: italic;
+}
+.order-tracking .button {
+    background: #F0EBDC;
+    color: #000;
+}
+.order-tracking .button:hover {
+    background-color: #c8a274;
+}/* End custom CSS */
