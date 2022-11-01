@@ -1,0 +1,15 @@
+.elementor-349 .elementor-element.elementor-element-892f722 .banner .banner-content, .elementor-349 .elementor-element.elementor-element-892f722 .banner .banner-content .banner-title, .elementor-349 .elementor-element.elementor-element-892f722 .banner .banner-content .banner-subtitle{text-align:center !important;}.elementor-349 .elementor-element.elementor-element-892f722 .banner-title{font-family:"Staatliches", Sans-serif;font-size:65px;font-weight:normal;line-height:40px;}.elementor-349 .elementor-element.elementor-element-892f722 .banner-content .banner-title{color:#FFFFFF;}.elementor-349 .elementor-element.elementor-element-892f722 .banner-subtitle{font-family:"Staatliches", Sans-serif;font-size:45px;font-weight:normal;}.elementor-349 .elementor-element.elementor-element-892f722 .banner-content .banner-subtitle{color:#FFFFFF;}.elementor-349 .elementor-element.elementor-element-892f722 .content-inner{font-family:"Source Sans Pro", Sans-serif;font-size:14px;font-weight:normal;line-height:22px;}.elementor-349 .elementor-element.elementor-element-892f722 .banner-content .content-inner{color:#FFFFFF;}.elementor-349 .elementor-element.elementor-element-892f722 .banner-content .button-wrap .banner-button{font-family:"Staatliches", Sans-serif;font-size:12px;font-weight:normal;text-transform:uppercase;padding:12px 65px 11px 65px;}.elementor-349 .elementor-element.elementor-element-892f722 .banner .banner-content .button-wrap .banner-button{color:#000000;background-color:#FFFFFF;}/* Start custom CSS for section, class: .elementor-element-341f1ee */.banner-content .content-inner {
+    padding: 10px 0 20px 0;
+}
+.banner-content .banner-title:before {
+    content: url(https://xstore.8theme.com/elementor/demos/niche-market03/wp-content/uploads/sites/62/2021/04/stars-left.png);
+    position: absolute;
+    left: 35px;
+    top: -17px;
+}
+.banner-content .banner-title:after {
+    content: url(https://xstore.8theme.com/elementor/demos/niche-market03/wp-content/uploads/sites/62/2021/04/stars-right.png);
+    position: absolute;
+    right: 35px;
+    top: -17px;
+}/* End custom CSS */
