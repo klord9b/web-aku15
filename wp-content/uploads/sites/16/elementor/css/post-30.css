@@ -1,0 +1,13 @@
+.elementor-30 .elementor-element.elementor-element-cdd502e > .elementor-container{max-width:1410px;}.elementor-30 .elementor-element.elementor-element-cdd502e{margin-top:15px;margin-bottom:0px;}.elementor-30 .elementor-element.elementor-element-de8bc2b > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:15px;}.elementor-30 .elementor-element.elementor-element-03601c6 .etheme-headline{font-family:"Jost", Sans-serif;font-size:34px;font-weight:600;line-height:48px;color:#111111;}.elementor-30 .elementor-element.elementor-element-03601c6{text-align:center;--shape-color:#111111;--shape-width:3px;--iteration-count:infinite;}.elementor-30 .elementor-element.elementor-element-7f3262d > .elementor-widget-container{margin:0% 22% 0% 22%;}@media(max-width:1024px){.elementor-30 .elementor-element.elementor-element-7f3262d > .elementor-widget-container{margin:0px 0px 0px 0px;}}/* Start custom CSS for shortcode, class: .elementor-element-7f3262d */.elementor-30 .elementor-element.elementor-element-7f3262d .track_order input {
+    background: #F4F4F4;
+    border: none;
+    text-align: center;
+    padding: 26px 30px;
+}
+.elementor-30 .elementor-element.elementor-element-7f3262d .track_order .button {
+    height: 52px;
+    font-size: 14px;
+    font-weight: 600;
+    width: 220px;
+    margin-top: 15px;
+}/* End custom CSS */
