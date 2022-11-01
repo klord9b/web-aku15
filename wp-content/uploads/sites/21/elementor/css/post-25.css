@@ -1,0 +1,14 @@
+.elementor-25 .elementor-element.elementor-element-5b427b4 > .elementor-container{max-width:750px;}.elementor-25 .elementor-element.elementor-element-5b427b4{margin-top:80px;margin-bottom:0px;}.elementor-25 .elementor-element.elementor-element-a985722{text-align:center;}.elementor-25 .elementor-element.elementor-element-a985722 .elementor-heading-title{color:#222222;font-family:"Montserrat", Sans-serif;font-size:28px;font-weight:bold;text-transform:uppercase;line-height:34px;}@media(max-width:767px){.elementor-25 .elementor-element.elementor-element-5b427b4{margin-top:35px;margin-bottom:0px;}}/* Start custom CSS for shortcode, class: .elementor-element-b2b8fe5 */.elementor-shortcode label {
+    font-weight: 600;
+    font-size: 20px;
+    color: #000;
+}
+.track_order .button {
+    font-weight: 600;
+}
+.track_order input::placeholder {
+    text-align: center;
+}
+.track_order input {
+    border-width: 0 0 2px 0 !important;
+}/* End custom CSS */
