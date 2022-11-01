@@ -1,0 +1,9 @@
+.elementor-433 .elementor-element.elementor-element-3751f94:not(.elementor-motion-effects-element-type-background), .elementor-433 .elementor-element.elementor-element-3751f94 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#222222;}.elementor-433 .elementor-element.elementor-element-3751f94{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:69px 0px 50px 0px;}.elementor-433 .elementor-element.elementor-element-3751f94 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-433 .elementor-element.elementor-element-153f749 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-433 .elementor-element.elementor-element-24d3b5b{text-align:center;}.elementor-433 .elementor-element.elementor-element-24d3b5b > .elementor-widget-container{margin:0px 0px 20px 0px;}.elementor-433 .elementor-element.elementor-element-7ef5190{text-align:center;}.elementor-433 .elementor-element.elementor-element-7ef5190 > .elementor-widget-container{margin:10px 0px 50px 0px;}.elementor-433 .elementor-element.elementor-element-9bf6340{text-align:center;color:#FFFFFF;font-family:"Roboto", Sans-serif;font-size:14px;}/* Start custom CSS for section, class: .elementor-element-3751f94 */.footer .menu-element.horizontal .menu li>a {
+    font-family: Roboto Condensed;
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.footer .menu-element.horizontal .menu li i {
+    margin-right: 5px;
+}/* End custom CSS */
