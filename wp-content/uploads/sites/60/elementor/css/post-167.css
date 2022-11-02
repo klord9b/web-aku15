@@ -1,0 +1,20 @@
+.elementor-167 .elementor-element.elementor-element-3a48c1b{margin-top:80px;margin-bottom:25px;}.elementor-167 .elementor-element.elementor-element-f9e45cb{text-align:center;}.elementor-167 .elementor-element.elementor-element-af04396{margin-top:0px;margin-bottom:30px;}.elementor-167 .elementor-element.elementor-element-f8a6068{margin-top:0px;margin-bottom:30px;}.elementor-167 .elementor-element.elementor-element-89f2731 .et-follow-buttons a{margin:0 10px;}.elementor-167 .elementor-element.elementor-element-89f2731 .et-follow-buttons{justify-content:center;}.elementor-167 .elementor-element.elementor-element-7082a7f{margin-top:0px;margin-bottom:60px;}.elementor-167 .elementor-element.elementor-element-136c701{text-align:center;color:#555555;font-family:"Dosis", Sans-serif;font-size:14px;font-weight:200;line-height:26px;}/* Start custom CSS for section, class: .elementor-element-af04396 */.custom-footer .menu-item {
+    font-weight: 400;
+}
+
+@media screen and (min-width: 780px) {
+    .custom-footer .menu-item {
+    padding: 0 60px 0 0 !important;
+    font-weight: 400;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    .custom-footer .menu-item a {
+    font-size: 16px !important;
+    }
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-7082a7f */.custom-copyright a {
+    font-weight: 600;
+    color: #b094ab !important;
+}/* End custom CSS */
