@@ -1,0 +1,8 @@
+.elementor-4895 .elementor-element.elementor-element-a174a89 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-4895 .elementor-element.elementor-element-a174a89{padding:35px 0px 35px 0px;}.elementor-4895 .elementor-element.elementor-element-3545520 .et-follow-buttons a{margin:0 10px;}.elementor-4895 .elementor-element.elementor-element-3545520 .et-follow-buttons{justify-content:flex-end;}@media(max-width:767px){.elementor-4895 .elementor-element.elementor-element-f591ee9 > .elementor-element-populated{margin:0px 0px 25px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-4895 .elementor-element.elementor-element-3545520 .et-follow-buttons{justify-content:center;}}@media(min-width:768px){.elementor-4895 .elementor-element.elementor-element-f591ee9{width:74.971%;}.elementor-4895 .elementor-element.elementor-element-d5aa6d8{width:25%;}}/* Start custom CSS for section, class: .elementor-element-a174a89 */.footer-links-drinks a{font-size:18px;margin-right:24px;margin-left:24px;}
+.footer-links-drinks a:first-child{margin-left:0;}
+.footer-links-drinks a:last-child{margin-right:0;}
+@media only screen and (max-width: 480px) { 
+    .footer-links-drinks {
+        text-align: center;
+    }
+}/* End custom CSS */
